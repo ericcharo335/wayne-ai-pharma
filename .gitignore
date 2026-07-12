@@ -1,0 +1,25 @@
+# Wayne AI Pharma
+
+# Encryption key — NEVER commit
+.encryption_key
+
+# Database
+*.db
+*.db-journal
+*.db-wal
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
